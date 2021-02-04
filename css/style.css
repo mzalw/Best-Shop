@@ -1,0 +1,50 @@
+:root {
+    --font-open: 'Open Sans', sans-serif;
+    --font-raleway: 'Raleway', sans-serif;
+}
+
+.container {
+    width: 1352px;
+    height: 100%;
+    display: flex;
+}
+
+header {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 3px 6px #00000029;
+}
+
+header .container {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: var(--font-raleway);
+    font-weight: lighter;
+    font-size: 32px;
+    color: #08A6E4;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+    font-family: var(--font-open);
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.nav__item {
+    padding: 28px 47px 24px 47px;
+    color: #A5A5A5;
+    border-bottom: 4px solid transparent;
+}
+
+.nav__item:hover {
+    border-bottom: 4px solid #08A6E4;
+    color: #000;
+}
+
