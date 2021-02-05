@@ -26,6 +26,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Best-Shop/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +44,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612438645313</updated>
-      <workItem from="1612438646436" duration="4984000" />
+      <workItem from="1612438646436" duration="5177000" />
+      <workItem from="1612444057432" duration="53000" />
+      <workItem from="1612530474076" duration="5719000" />
     </task>
     <servers />
   </component>
